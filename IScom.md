@@ -6,7 +6,7 @@ Exchange相關
 
 
 
-* Item AD 微軟目錄服務相關 (#1)
+* [Item AD 微軟目錄服務相關] (#1)
   * Item [KRBTGT Password Reset](https://www.alitajran.com/krbtgt-password-reset/)
 * Item Exchange Sever相關
   *
