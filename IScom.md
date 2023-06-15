@@ -5,71 +5,17 @@ Iscom.md
 
 
 
-
-
-1
-
-1
-1
-1
-
-1
-1
-
-
-2
-2
-2
-2222
-2
-222
-
-
-
-
-
-
-2
-22222222
-
-1
-22
-3
-3
-3
-3
-3
-3
-3
-3
-111111111
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# [AD相關](#AD 微軟目錄服務相關)
 
 
 <h2 id="1">AD 微軟目錄服務相關</h2>
 
-Exchange相關
-
-
-
 * Item AD 微軟目錄服務相關(#
   * Item [KRBTGT Password Reset](https://www.alitajran.com/krbtgt-password-reset/)
+
+
+<h2 id="2">Exchamge 相關</h2>
+
 * Item Exchange Sever相關
   *
 >網頁測試
