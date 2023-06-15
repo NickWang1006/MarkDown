@@ -5,7 +5,7 @@ Iscom.md
 
 
 
-[123]:AD微軟目錄相關
+[123]:https://github.com/NickWang1006/MarkDown/edit/main/IScom.md/
 
 * AD 微軟目錄服務相關
   * [KRBTGT Password Reset](https://www.alitajran.com/krbtgt-password-reset/)
