@@ -1,6 +1,11 @@
 Iscom.md
 # SI Notes
+[AD相關][123]
 
+
+
+
+[123]:AD微軟目錄相關
 
 * AD 微軟目錄服務相關
   * [KRBTGT Password Reset](https://www.alitajran.com/krbtgt-password-reset/)
