@@ -1,4 +1,4 @@
 markdown.md
 # MarkDown LAB
 
-[測試](https://goolge.com.tw)
+[KRBTGT Password Reset](https://www.alitajran.com/krbtgt-password-reset/)
