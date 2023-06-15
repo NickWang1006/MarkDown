@@ -1,6 +1,30 @@
 Iscom.md
 # SI Notes
-AD相關
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h2 id="1">AD 微軟目錄服務相關</h2>
 
 Exchange相關
